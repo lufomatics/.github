@@ -1,0 +1,6 @@
+{
+    "name": "Node CI",
+    "description": "Analyze source code, build, test, and publish Node.js",
+    "iconName": "nodejs",
+    "categories": ["Continuous integration", "JavaScript", "TypeScript", "npm", "esm", "actions"]
+}
