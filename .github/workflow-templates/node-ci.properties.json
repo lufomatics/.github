@@ -12,6 +12,6 @@
     "filePatterns": [
         "package.json$",
         "tsconfig.*\\.json$"
-    ],
-    "labels": ["preview"]
+    ]
 }
+
