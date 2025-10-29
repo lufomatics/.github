@@ -1,0 +1,17 @@
+{
+    "name": "Node CI",
+    "description": "Analyze source code, build, test, and publish",
+    "iconName": "octicon squirrel",
+    "categories": [
+        "continuous-integration",
+        "TypeScript",
+        "JavaScript",
+        "npm",
+        "Yarn"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "tsconfig.*\\.json$"
+    ]
+}
+
